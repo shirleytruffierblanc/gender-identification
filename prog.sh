@@ -8,7 +8,7 @@ shopt -s nocasematch
 # read the full file into the array
 # This while loop terminates when pressing CTRL-D
 i=1
-while read -r line; do
+while read -r line;  do
    myArray[i]="${line}"
    ((i++))   
 done < /dev/stdin
@@ -18,6 +18,8 @@ for ((j=1;j<i;++j)); do
    # perform your actions here on myArray[j]
 
     case "${myArray[j]}" in
+	"")
+	    ;;
 	bob)
 	    echo  "boy"
 	    ;;
