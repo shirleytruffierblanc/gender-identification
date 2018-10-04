@@ -1,0 +1,22 @@
+
+while :
+do
+    read INPUT_STRING ||break
+    case $INPUT_STRING in
+	bob)
+	    echo "boy"
+	    ;;
+	alicia)
+	    echo "girl"
+	    ;;
+	cookie)
+	    echo "dog"
+	    ;;
+	*)
+	    echo "unknown"
+	    ;;   
+    esac
+    
+done
+
+
