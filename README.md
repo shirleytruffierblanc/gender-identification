@@ -28,9 +28,9 @@ The result is :
 ```
 boy
 girl
-unknown amhed
+unknown john
 dog
-unknown daniel
+unknown tom
 
 ```
 
