@@ -18,7 +18,8 @@ chmod +x gender-identification.sh
 ```
 ### Running the program and display the result
 
-To run and diplay the result of gender-identification.sh :
+To run and diplay the result of gender-identification.sh use `cat <data file> | ./gender-identification.sh > result.txt
+ `:
 
 ```
 cat input.txt | ./gender-identification.sh > result.txt
