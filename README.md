@@ -7,8 +7,8 @@ Here the input.txt file contains information to run the program like an example.
 
 Clone this Github repository:
 ```
-git clone https://github.com/shirleytruffierblanc/gender-identification.git
-cd gender-identification
+git clone https://github.com/shirleytruffierblanc/gender-identification-shell-scritpt.git
+cd gender-identification-shell-scritpt
 ```
 ### Make the script executable
 
