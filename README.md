@@ -1,5 +1,5 @@
 # Gender identification
-This program permit to identify 3 types of name : bob, alicia, cookie. The program identify the gender of it, bob like a boy, alicia like a girl and cookie like a dog. And the other name or words are unknown by the program.
+This program permits to identify 3 names : bob, alicia, cookie. The program identifies the gender, bob as a boy, alicia as a girl and cookie as a dog. And the other names or words are unknown by the program.
 Here the input.txt file contains information to run the program like an example.
 
 ## Getting started
