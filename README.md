@@ -7,7 +7,7 @@ Here the input.txt file contains information to run the program like an example.
 
 Clone this Github repository:
 ```
-https://github.com/shirleytruffierblanc/phone-number-filter.git
+https://github.com/shirleytruffierblanc/gender-identification.git
 cd gender-identification
 ```
 ### Make the script executable
